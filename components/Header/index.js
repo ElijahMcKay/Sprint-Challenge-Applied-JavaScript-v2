@@ -23,7 +23,7 @@ function Header() {
 
     //text content 
     date.textContent = `March 28, 2019`; 
-    header.textContent = `Lambda Times`; 
+    title.textContent = `Lambda Times`; 
     temp.textContent = `98°`; 
 
     //appending and creating HTML structure
